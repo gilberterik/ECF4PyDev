@@ -2,7 +2,7 @@
 <feature
       id="com.gilberterik.eclipse.ECFPyDev"
       label="ECFPyDev"
-      version="1.0.0.qualifier"
+      version="1.0.0"
       provider-name="GILBERTERIK">
 
    <description url="http://www.example.com/description">
