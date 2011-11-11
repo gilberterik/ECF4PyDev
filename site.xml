@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.gilberterik.eclipse.ECFPyDev_1.0.0.jar" id="com.gilberterik.eclipse.ECFPyDev" version="1.0.0">
+      <category name="ECF Integration for PyDev Editor"/>
+   </feature>
+   <category-def name="ECF Integration for PyDev Editor" label="ECF Integration for PyDev Editor">
+      <description>
+         Eclipse 3.7 Real-Time Shared Editing for PyDev&apos;s Python Editor using ECF/DocShare
+      </description>
+   </category-def>
+</site>
