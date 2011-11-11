@@ -1,3 +1,23 @@
 Quick Project Info:
+===================
 
 PyDev + ECF + ECF4PyDev = [From Python Editor] Share Editor With...
+
+How It's Going To Work
+======================
+You're an Eclipse 3.7 (Indigo) user. Maybe you're on 3.6, maybe your on 3.8. Either way, you also use PyDev. You think to yourself, I wish there was a SIMPLE baked in way to show someone a few lines of code I'm working on.
+
+You install ECF 3.5.3 from:
+  http://download.eclipse.org/rt/ecf/3.5.3/site.p2
+and then my plugin from:
+  http://gilberterik.github.com/ECF4PyDev
+
+You should be able to use ECF alone to log in to an XMPP provider, like Google Talk, and share your Java and Plaintext editor.  Installing my plugin simply bolts on the 10 lines of XML to enable the same feature in PyDev's Python Editor
+
+What Works Now
+==============
+The plugin works right now in it's current state. Update it to your version of whatever you need.
+
+What Doesn't Yet Work
+=====================
+I have an Eclipse Update Site up using gh-pages, but I don't have it setup at the correct URL. That should change soon.
